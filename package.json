@@ -1,0 +1,31 @@
+{
+  "name": "edwardevans-io",
+  "version": "1.0.0",
+  "description": "Edwardevans-io is a Node.js module providing functions for encryption, decryption, file reading, and writing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwardEvans6675454/edwardevans-io"
+  },
+  "dependencies": {
+	  "johnyoung1": "1.0.0",
+	  "johnyoung1-js": "1.0.0",
+	  "edwardcollins": "1.0.0",
+"kennethallen": "1.0.0",
+"morozz": "1.0.0",
+"zyat": "1.0.0",
+"filatovmark": "1.0.0",
+"tobogunbar": "1.0.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdwardEvans6675454/edwardevans-io/issues"
+  },
+  "homepage": "https://github.com/EdwardEvans6675454/edwardevans-io#readme"
+}
